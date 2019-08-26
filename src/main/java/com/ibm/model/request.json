@@ -1,0 +1,6 @@
+{
+  "toEmail": "diptamsarkar@gmail.com",
+  "fromEmail": "emailsvc@test.com",
+  "subject": "Test email",
+  "body": "Hello User, this is test email"
+}

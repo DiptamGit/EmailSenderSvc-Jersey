@@ -1,0 +1,9 @@
+com\ibm\service\SessionBuilder$1.class
+com\ibm\client\EmailClient.class
+com\ibm\util\Constants.class
+com\ibm\controller\RestController.class
+com\ibm\service\MessageBuilder.class
+com\ibm\service\SessionBuilder.class
+com\ibm\controller\HelloWorldSvc.class
+com\ibm\model\EmailRequest.class
+com\ibm\service\PropertyBuilder.class
